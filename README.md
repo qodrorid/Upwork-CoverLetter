@@ -17,7 +17,7 @@ Responsive designs both mobile, tablet or laptop computer even I apply every my 
 
 Here are some links to my website:  
 http://rahmandikahaekal.github.io/kaltem  
-http://rahmandikahaekal.github.io/respontemplate 
+http://rahmandikahaekal.github.io/respontemplate
 http://rahmandikahaekal.github.io/sloven 
 http://rahmandikahaekal.github.io/personal_ux    
    > (not only that , If needed, you can also include your portfolio you have, can be a website link, or a link to the google playstore, or by uploading a file passes the attachment)
