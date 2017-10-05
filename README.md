@@ -1,5 +1,7 @@
 # Cover Letter for Upwork
 
+ ... Hello Guys , i want to show you my proposal when i want to submit the proposal on [Upwork.com](https://upwork.com). the quote bottom in every statement can help you to resolve and describe more about why must be like that , Enjoy it :relaxed:
+
 Hi Project Owner .
    > (first of all , you  must greet the project owner , maybe you can call his name if you know , or you can just greet seem like good morning or good evening sir)
 
