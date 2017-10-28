@@ -1,29 +1,68 @@
-# Cover Letter for Upwork
+# Upwork Cover Letter
 
-Hi Project Owner .
-   > (first of all , you  must greet the project owner , maybe you can call his name if you know , or you can just greet seem like good morning or good evening sir)
+How to Develop 
+-----
 
-I have seen Your job description, I think you need something that's become my expertise in the field. Right not you needing a Front-end developer? So, here I am .
-   > (and than, you have to understand what he wants)
+1. Clone this repo `git clone https://github.com/rahmandikahaekal/Upwork-coverletter.git`
+2.  Once cloned, use his proposal by copying an existing template and put him in the time of submit proposals at upwork. 
 
-I've been so accustomed to using html and css with an accompanying javascript to add some animation or make how interactive websites could look. And then , i usually to use convert method psd to html on creating website .   
-And I myself have also been a few times great handling and make the web their own responsive to other media, and maybe I'll show you a few websites I answer I created with responsiveness to mobile and tablet.   
-Responsive designs both mobile, tablet or laptop computer even I apply every my website creation. And don't forget to always apply some script javascript to make a webiste interactive looks interesting and I did.  
-   > (and the above statement, you can enter or not. But if you want more convincing owners project that you fit in with the project it's better)
- 
-- Why I dare to work with you? because I'm sure I could afford with the professional and quick.  
-- Why should you choose me? because I was able to take responsibility for what the clients entrust to me. My priority in serving clients i.e. the fast- moving, responsibility, diligence, friendly, trustworthy.  
-   > (for this you could menyantumkan him as the reason why you have received in this project, why and what your excess from other workers)
 
-Here are some links to my website:  
-http://rahmandikahaekal.github.io/kaltem  
-http://rahmandikahaekal.github.io/respontemplate 
-http://rahmandikahaekal.github.io/sloven 
-http://rahmandikahaekal.github.io/personal_ux    
-   > (not only that , If needed, you can also include your portfolio you have, can be a website link, or a link to the google playstore, or by uploading a file passes the attachment)
- 
-I look forward to our chat. Have a great day!  
-Thank you for your time 
-   > (the last dont forget to add that you were really wanted this project)
+Hi there!
 
-Best Regards, Rahmandika haekal
+Thanks for downloading this Upwork Cover letter template. We hope you find it useful .
+
+Just a few things we wanted to point out before you start.
+   - The sections in bold will need to be personalised by you as relevant to the jobs you apply for. 
+   - You can (and you should) personalise your proposals as much as possible. 
+   - So as long as you retain the basic elements, feel free to be creative with your proposals.
+   - Keep your cover letters short, succinct but packed with information about you and how you can help the client achieve their goals. 
+   
+Under this , you will find an example of a proposal, using this template. This will show you exactly how to put the template to use in real life. 
+
+
+
+Upwork Proposal Template
+-----
+
+Hi **{client name}**, *If client’s name is not available, use “Hi there” or feel free to get creative*
+
+Thanks for inviting me to submit a proposal. *Start with this only if you have been invited to apply for a job. Otherwise, start below.*
+
+You’re looking for a **{job role or job description}** this is exactly what I specialise in. Talk about a perfect match!
+
+I’ll keep this short and we can go into more details when we chat. 
+
+Before anything else, I know you’re probably curious to see my work. Please have a look at my Upwork portfolio:**{insert Upwork profile link}** or alternatively, you can also view samples of my work here: **{insert link to website or other online portfolio}**
+
+As you can see from my samples, I enjoy working with clients who **{insert statement about taking your niche of work seriously}.** I took the time to check out your website and you certainly fit the bill **insert the bill** Insert this statement only if applicable and you have actually been able to review the website. If possible mention something specific about their business or website so it proves you actually have taken the time. Before we start working together, I will **{insert statement about what you will do for the project/ job that proves you are going the extra mile for the client}** I will also **{insert statement about how you work that demonstrates your professionalism}**
+
+Finally, to answer the questions in your job post… *Insert this statement only if the client has asked questions within the job post*
+
+I’d love to chat with you over Skype to see if we’re a good fit for each other. I am available the next two days **{insert the exact days, so there is no confusion}** between **{times you are available} {insert time zone}.** My skype name is: **{insert Skype name}**
+
+I look forward to our chat. Have a great day!
+
+Thanks
+**{insert your name}**
+
+
+
+Upwork Proposal Example
+-----
+
+Hi **There** !
+
+You’re looking for a **Front-End Web Developer** this is exactly what I specialise in. Talk about a perfect match!
+
+I’ll keep this short and we can go into more details when we chat.
+
+Before anything else, I know you’re probably curious to see my work. Please have a look at my Upwork portfolio: https://www.upwork.com/o/profiles/users/_~01a2355831aecca8e7/ or alternatively, you can also view samples of my work here: http://rahmandikahaekal.github.io/Kaltem
+
+As you can see from my samples, I enjoy working with **clients that take good design seriously**. I took the time to check out your website and you certainly fit the bill **350** Insert this statement only if applicable and you have actually been able to review the website. If possible mention something specific about their business or website so it proves you actually have taken the time. Before we start working together, I will **review your existing design assets, discuss software specifications and interview you about your visual brand. (What can I say, I like to get to know my clients!)** I will **also explain my process, my design personality and creation timelines**.
+
+I’d love to chat with you over Skype to see if we’re a good fit for each other. I am available **six time on a week** (**except on Wednesday**) between **6am - 6pm, but it's relative usually more than 12 clock**.  My skype name is: **rahmandika haekal**
+
+I look forward to our chat. Have a great day!
+
+Thanks 
+**Rahmandika Haekal**
