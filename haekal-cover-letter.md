@@ -1,25 +1,20 @@
-## Upwork Cover Letter
+# Cover Letter For Front-end Web Developers
 
+Dear Project Owner `or you can change by name of project owner`
 
-Hi Project Owner
+I am writing you to apply to the position of Front End Developer. My three years of experience as a Front End Developer for Decker Digital has honed my CSS3 and HTML5 skills, as well as my knowledge of mobile and responsive design.
 
-I have seen Your job description, I think you need something that's become my expertise in the field. So I was confident with my skills and portfolio will fulfill your criteria
+My professional experience includes bringing the wireframes of the UX designer to life through HTML5 and CSS3, as well as collaborating with Back End Developers to create a stellar finished product. I think my skills and experience makes me a great fit for Atlas Digital.
 
-I've been so accustomed to using html and css with an accompanying javascript to add some animation or make how interactive websites could look. And then , i usually to use convert method psd to html on creating website . And I myself have also been a few times great handling and make the web their own responsive to other media, and maybe I'll show you a few websites I answer I created with responsiveness to mobile and tablet. Responsive designs both mobile, tablet or laptop computer even I apply every my website creation. And don't forget to always apply some script javascript to make a webiste interactive looks interesting and I did.
+Here are some of my most relevant qualifications and accomplishments:
 
-- Why I dare to work with you? because I'm sure I could afford with the professional and quick.
-- Why should you choose me? because I was able to take responsibility for what the clients entrust to me. My priority in serving clients i.e. the fast- moving, responsibility, diligence, friendly, trustworthy.
+- Three years of experience as a Front End Developer for Decker Digital
+- Crafted various website features using HTML5 CSS3 and JavaScript
+- Developed and Implemented project scope and timelines based on the design-develop-deploy process
+- Collaborated with UX designers and Back End Developers and ensured coherence between all parties
+- Tested feature prototypes for bugs and user experience
 
-Here are some links to my website:
+I know how important the details are for a Front End Developer. My keen attention to detail and dedication to solving any problem at hand are what separates me from other candidates with similar qualifications. If you agree that I’d be a good fit for your project, I would love to schedule an interview at your earliest convenience. `This part is important when we try to convince our client expertise`
 
-http://rahmandikahaekal.github.io/Resume
-http://rahmandikahaekal.github.io/cvcard
-http://rahmandikahaekal.github.io/Kaltem
-http://rahmandikahaekal.github.io/sloven
-http://rahmandikahaekal.github.io/personal_ux
-
-I look forward to our chat. Have a great day! 
-Thank you for your time . 
-
-Best Regards, 
-Rahmandika haekal
+Sincerely,
+Rahmandika H `Include your name with nickname or fullname`
