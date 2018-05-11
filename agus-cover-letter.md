@@ -1,5 +1,13 @@
 # Cover Letter for Upwork by Agus Nurwanto
 
+thanks for inviting me
+
+kalimat pertama saat diinvet oleh calon client
+
+==========================================
+
+
+
 Fulltime freelance WordPress Developer. WordPress is my life.
 
 I've been helping many companies and people building their blog, personal website, company profile, and many other type of websites with WordPress.
