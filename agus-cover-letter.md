@@ -10,11 +10,11 @@ kalimat pertama saat diinvet oleh calon client
 
 Fulltime freelance WordPress Developer. WordPress is my life.
 
-I've been helping many companies and people building their blog, personal website, company profile, and many other type of websites with WordPress.
+I've been helping many companies and people build their blogs, personal websites, company profiles, and many other type of websites with WordPress.
 
-Most of my clients satisfy with my work. They appreciate my work by making repeated orders and referring clients to me.
+Most of my clients are satisfied with my work. They show appreciation for my work by making repeated orders and referring clients to me.
 
-For me, the biggest happiness I've ever feel is when my clients told that the website I created for them bring their business more success or it is useful for them.'
+For me, the greatest happiness I've ever felt is when my clients have told me that, the website I created for them, brings their business more success or that they find it useful.
 
 I am sure I can help you too :)
 
